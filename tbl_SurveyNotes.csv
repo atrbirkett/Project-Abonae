@@ -1,0 +1,680 @@
+"UID","ID_Name","Location_Grid","Location_Address","Location_X","Location_Y","Description_EventType","Description_Findings","Description_Notes","Dating_Period","SurveyDate_Start","SurveyDate_End","Created_Date","Edit_LastEdit"
+38,"SMR No: 20167","ST5522675806",,355226.00,175806.00,"EVALUATION",,"Description:  Information from Avon SMR; SMR No: 20167. Excavation revealed the remains of a Roman building. NGR is approximate.
+
+Year Start:  1962
+
+Year End:  1962
+
+Period/Subject:  ROMAN - BUILDING, ROMAN - WALL
+
+Intervention Type:  EXCAVATION
+
+Identifiers: 
+[ADS] Depositor Id: 1119328
+[ADS] Associated Id: SMR Number (Avon): 20167
+[ADS] Import RCN: EHNMR-1119328
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group","ROMAN",01/01/1962 00:00:00,01/01/1962 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:03 BY Admin; "
+39,"SMR No: 20914","ST5523475826","63 ROMAN WAY, SEA MILLS",355234.00,175826.00,"WATCHING BRIEF",,"Description:  Information from Bristol SMR, No: 20914. Observation of foundation trenching recorded Roman finds and a layer of large stones of uncertain date.
+
+Year Start:  2001
+
+Year End:  2001
+
+Identifiers: 
+[ADS] Depositor Id: 1358676
+[ADS] Associated Id: SMR Number (Avon): 20914
+[ADS] Import RCN: EHNMR-1358676
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol City Council","ROMAN",01/01/2001 00:00:00,01/01/2001 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:03 BY Admin; "
+40,"SMR No: 20976","ST5517775920","RIVERSIDE HOUSE, 79 SEA MILLS LANE",355177.00,175920.00,"WATCHING BRIEF",,"Description:  Information from Bristol SMR, No: 20976. Monitoring of groundworks following an earlier evaluation (Event 1313960).
+
+Year Start:  2001
+
+Year End:  2001
+
+Identifiers: 
+[ADS] Depositor Id: 1358638
+[ADS] Associated Id: SMR Number (Avon): 20976
+[ADS] Import RCN: EHNMR-1358638
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit
+
+Bibliographic References: 
+
+Anon/2002/No 79 Sea Mills Lane: archaeological watching brief. Avon Archaeological Unit [evaluation and assessment reports].","ROMAN",01/01/2001 00:00:00,01/01/2001 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:02 BY Admin; "
+41,"SMR No: 20390","ST5518075920","RIVERSIDE HOUSE, 79 SEA MILLS LANE",355180.00,175920.00,"EVALUATION",,"Description:  Information from Bristol SMR; No: 20390. Three trenches excavated in the rear garden of the property revealed evidence for Romano-British quarrying as well as Victorian garden features. Accession no: 1999.0058. See Event 1358638 for subsequent watching brief.
+
+Year Start:  1999
+
+Year End:  1999
+
+Identifiers: 
+[ADS] Depositor Id: 1313960
+[ADS] Associated Id: SMR Number (Avon): 20390
+[ADS] Associated Id: AIP Record Number: C.54.4001
+[ADS] Import RCN: EHNMR-1313960
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit
+
+Bibliographic References: 
+
+Erskine J G P/1999/79, Sea Mills Lane, Sea Mills, Bristol: Riverside House archaeological evaluation. Avon Archaeological Unit [evaluation and assessment reports].
+Identifiers: 
+[ADS] Depositor Id: 1313960
+[ADS] Associated Id: SMR Number (Avon): 20390
+[ADS] Associated Id: AIP Record Number: C.54.4001
+[ADS] Import RCN: EHNMR-1313960
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit
+
+Bibliographic References: 
+
+Erskine J G P/1999/79, Sea Mills Lane, Sea Mills, Bristol: Riverside House archaeological evaluation. Avon Archaeological Unit [evaluation and assessment reports].","ROMAN",01/01/1999 00:00:00,01/01/1999 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:02 BY Admin; "
+43,"SMR No: 21077",,"79 SEA MILLS LANE (THE COACH HOUSE)",0.00,0.00,"EVALUATION",,"Description:  Information from Bristol SMR, No: 21077. Evaluation carried out inside the coach house in advance of proposed development.
+
+Year Start:  2001
+
+Year End:  2001
+
+Identifiers: 
+[ADS] Depositor Id: 1358647
+[ADS] Associated Id: SMR Number (Avon): 21077
+[ADS] Import RCN: EHNMR-1358647
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit","ROMAN",01/01/2001 00:00:00,01/01/2001 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:02 BY Admin; "
+44,"SMR No: 22202","ST5519275950","75 SEA MILLS LANE, SEA MILLS",355192.00,175950.00,"EVALUATION",,"Description:  Bristol SMR No: 22202. Evaluation carried out in advance of proposed development. Information from Bristol SMR.
+
+Year Start:  2005
+
+Year End:  2005
+
+Identifiers: 
+[ADS] Depositor Id: 1441213
+[ADS] Import RCN: EHNMR-1441213
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit
+
+Bibliographic References: 
+
+Young A/2005/75 Sea Mills Lane, Sea Mills, Bristol: archaeological trial excavation project. Avon Archaeological Unit [evaluation and assessment reports].","ROMAN",01/01/2005 00:00:00,01/01/2005 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:02 BY Admin; "
+45,"SMR No: 22180","ST5520075940","75 SEA MILLS LANE, SEA MILLS",355200.00,175940.00,"DESK BASED ASSESSMENT",,"Description:  No Description
+
+Year Start:  2005
+
+Year End:  2005
+
+Identifiers: 
+[ADS] Depositor Id: 1439334
+[ADS] Associated Id: SMR Number (Avon): 22180
+[ADS] Import RCN: EHNMR-1439334
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit
+
+Bibliographic References: 
+
+Etheridge D/2005/No.75 Sea Mills Lane, Sea Mills, Bristol: archaeological desk based assessment. Avon Archaeological Unit [evaluation and assessment reports].","UNCERTAIN",01/01/2005 00:00:00,01/01/2005 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:24 BY Admin; "
+46,"SMR No: 20160","ST5521275940","75 SEA MILLS LANE",355212.00,175940.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Avon SMR; SMR No: 20160. Observation by schoolboy members of BARG recorded the remains of a Roman building.
+
+Year Start:  1965
+
+Year End:  1965
+
+Identifiers: 
+[ADS] Depositor Id: 1119258
+[ADS] Associated Id: SMR Number (Avon): 20160
+[ADS] Import RCN: EHNMR-1119258
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group","ROMAN",01/01/1965 00:00:00,01/01/1965 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:53:59 BY Admin; "
+12,"SMR No: 20161","ST5513275848","NORTH SIDE PORTWAY, SEA MILLS",355132.00,175848.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Avon SMR; SMR No: 20161. Observation recorded the remains of a Roman building.
+
+Year Start:  1940
+
+Year End:  1940
+Identifiers: 
+[ADS] Depositor Id: 1119265
+[ADS] Associated Id: SMR Number (Avon): 20161
+[ADS] Import RCN: EHNMR-1119265
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group",,01/01/1940 00:00:00,01/01/1940 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 15:02:55 BY Admin; "
+13,"31 HADRIAN CLOSE, SEA MILLS","ST5510075800","31 HADRIAN CLOSE, SEA MILLS",355100.00,175800.00,"EXCAVATION",,"Description:  No Description
+
+Year Start:  1954
+
+Year End:  1954
+Identifiers: 
+[ADS] Depositor Id: 633863
+[ADS] Import RCN: EHNMR-633863
+
+People Involved: 
+[Publisher] Historic England
+
+Bibliographic References: 
+
+73/1954/70-72. Transactions of the Bristol and Gloucestershire Archaeological Society.",,01/01/1954 00:00:00,01/01/1954 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:25:46 BY Admin; "
+14,"SMR No: 20169","ST5519075773","75 ROMAN WAY, SEA MILLS",355190.00,175773.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Avon SMR; SMR No: 20169. Observation in or around 1950 recorded a Roman wall and internal floor surface which aligned with remains exposed by Selley in 1934 at the junction of Roman Way and the Portway. NGR is approximate.
+
+Year Start:  1950
+
+Year End:  1950
+
+Identifiers: 
+[ADS] Depositor Id: 1119329
+[ADS] Associated Id: SMR Number (Avon): 20169
+[ADS] Import RCN: EHNMR-1119329
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group",,01/01/1950 00:00:00,01/01/1950 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:30:09 BY Admin; "
+15,"SMR No: 20447","ST5511075810","THE PORTWAY, SEA MILLS",355110.00,175810.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Bristol SMR; No: 20447. Observation of groundworks for the new road recorded remains of a Roman building 'just where the embankment for the bridge over the River Trym commences on the south side of that river'. This may be the area excavated by Tratman in 1923 (Event 633859).
+
+Year Start:  1922
+
+Year End:  1922
+
+Identifiers: 
+[ADS] Depositor Id: 1340568
+[ADS] Associated Id: SMR Number (Avon): 20447
+[ADS] Import RCN: EHNMR-1340568
+
+People Involved: 
+[Publisher] Historic England
+[Creator] University of Bristol Speleological Society
+
+Bibliographic References: 
+
+Vol 1 No 3/1921-22, 154. University of Bristol Spelaeological Society proceedings.",,01/01/1922 00:00:00,01/01/1922 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 15:04:28 BY Admin; "
+16,"HER No: 25113","ST5503075782","17-19 HADRIAN CLOSE, SEA MILLS",355030.00,175782.00,"WATCHING BRIEF",,"Description:  Bristol HER No: 25113. Monitoring of development groundworks recorded modern deposits only. Accession no: BRSMG:2012.29. Information from OASIS Online Form.
+
+Year Start:  2012
+
+Year End:  2012
+Identifiers: 
+[ADS] Depositor Id: 1571813
+[ADS] Associated Id: OASIS ID: bristola1-124236
+[ADS] Import RCN: EHNMR-1571813
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Region Archaeological Services
+
+Bibliographic References: 
+
+Mason C/2012/Archaeological watching brief at Nos 17-19 Hadrian Close, Sea Mills, Bristol/Report No 2543. Bristol and Region Archaeological Services reports.",,01/01/2012 00:00:00,01/01/2012 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:29:52 BY Admin; "
+17,"SMR Nos: 21671-73","ST5517275812","HADRIAN CLOSE, SEA MILLS",355172.00,175812.00,"EXCAVATION",,"Description:  Bristol SMR Nos: 21671-73. Three areas were excavated; A at ST 55172 75812; B at ST 55031 75845; and C at ST 55070 75856. The archive is held in historical file 2816. SMR Number (Avon): 20148.
+
+Year Start:  1945
+
+Year End:  1945
+
+Identifiers: 
+[ADS] Depositor Id: 633862
+[ADS] Associated Id: SMR Number (Avon): 20148
+[ADS] Import RCN: EHNMR-633862
+
+People Involved: 
+[Publisher] Historic England
+
+Bibliographic References: 
+
+66/1945/258-95. Transactions of the Bristol and Gloucestershire Archaeological Society.",,01/01/1945 00:00:00,01/01/1945 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 15:04:49 BY Admin; "
+18,"SMR No: 20155","ST5507475729","28 HADRIAN CLOSE, SEA MILLS",355074.00,175729.00,"EXCAVATION",,"Description:  Information from Avon SMR; SMR No: 20155. Excavation by schoolboy members of BARG in the garden of No 28 revealed a Roman stone building measuring at least 6m x 6m.
+
+Year Start:  1965
+
+Year End:  1965
+Identifiers: 
+[ADS] Depositor Id: 1119226
+[ADS] Associated Id: SMR Number (Avon): 20155
+[ADS] Import RCN: EHNMR-1119226
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group",,01/01/1965 00:00:00,01/01/1965 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:29:37 BY Admin; "
+19,"SMR No: 20165","ST5501975827","20-23 HADRIAN CLOSE, SEA MILLS",355019.00,175827.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Avon SMR; SMR No: 20165. Observation in or around 1965 by schoolboy members of BARG recorded a possible post-Roman wall. NGR is approximate.
+
+Year Start:  1965
+
+Year End:  1965
+Period/Subject:  EARLY MEDIEVAL - WALL
+
+Intervention Type:  FIELD OBSERVATION (VISUAL ASSESSMENT)
+
+Identifiers: 
+[ADS] Depositor Id: 1119303
+[ADS] Associated Id: SMR Number (Avon): 20165
+[ADS] Import RCN: EHNMR-1119303
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group","EARLY MEDIEVAL",01/01/1965 00:00:00,01/01/1965 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:29:31 BY Admin; "
+20,"SMR No: 21266","ST5510075700","HADRIAN CLOSE, THE PORTWAY",355100.00,175700.00,"DESK BASED ASSESSMENT",,"Description:  Bristol SMR No: 21266. Assessment carried out in advance of proposed development of 33 temporary prefabricated bungalows dating from 1946.
+
+Year Start:  2002
+
+Year End:  2002
+
+Identifiers: 
+[ADS] Depositor Id: 1405554
+[ADS] Associated Id: AIP Record Number: B.54.F019
+[ADS] Import RCN: EHNMR-1405554
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit
+
+Bibliographic References: 
+
+19/2004, 113. Bristol & Avon archaeology.
+Erskins J/2002/Hadrian Close, The Portway, Bristol. Archaeological desk top study. Bristol and Region Archaeological Services reports.",,01/01/2002 00:00:00,01/01/2002 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:29:26 BY Admin; "
+21,"HER No: 24807","ST5504075675","9 HADRIAN CLOSE, SEA MILLS",355040.00,175675.00,"WATCHING BRIEF",,"Description:  Bristol HER No: 24807. Monitoring of development groundworks recorded no significant archaeological activity. Information from OASIS Online Form.
+
+Year Start:  2009
+
+Year End:  2009
+
+Identifiers: 
+[ADS] Depositor Id: 1510667
+[ADS] Associated Id: OASIS ID: bristola1-62238
+[ADS] Associated Id: AIP Record Number: E.54.3503
+[ADS] Import RCN: EHNMR-1510667
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Region Archaeological Services
+
+Bibliographic References: 
+
+Longman T/2010/Archaeological watching brief at 9 Hadrian Close, Sea Mills, Bristol. Bristol and Region Archaeological Services reports.","UNCERTAIN",01/01/2009 00:00:00,01/01/2009 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:29:20 BY Admin; "
+22,"SMR No: 20162","ST5515575834","74 ROMAN WAY, SEA MILLS",355155.00,175834.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Avon SMR; SMR No: 20162. Observation in or around 1965 by schoolboy members of BARG recorded an area of rough stone paving identified as a Roman yard surface. NGR is approximate.
+
+Year Start:  1965
+
+Year End:  1965
+
+Period/Subject:  ROMAN - YARD
+
+Intervention Type:  FIELD OBSERVATION (VISUAL ASSESSMENT)
+
+Identifiers: 
+[ADS] Depositor Id: 1119272
+[ADS] Associated Id: SMR Number (Avon): 20162
+[ADS] Import RCN: EHNMR-1119272
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group","ROMAN",01/01/1965 00:00:00,01/01/1965 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:29:13 BY Admin; "
+23,"SMR No: 22198","ST5507875776","31 HADRIAN CLOSE, SEA MILLS",355078.00,175776.00,"EVALUATION",,"Description:  Bristol SMR No: 22198. Evaluation in advance of proposed development recorded Roman features. Information from Bristol SMR.
+
+Year Start:  2005
+
+Year End:  2005
+
+Identifiers: 
+[ADS] Depositor Id: 1441211
+[ADS] Associated Id: AIP Record Number: C.54.3281
+[ADS] Import RCN: EHNMR-1441211
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Cotswold Archaeological Trust
+
+Bibliographic References: 
+
+Hart J/2005/31 Hadrian Close, Sea Mills, Bristol: archaeological evaluation/Report No 05116. Cotswold Archaeological Trust [archaeological evaluation reports].","ROMAN",01/01/2005 00:00:00,01/01/2005 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:29:07 BY Admin; "
+24,"SMR No: 22413","ST5507375776","31 HADRIAN CLOSE, SEA MILLS",355073.00,175776.00,"WATCHING BRIEF",,"Description:  Bristol SMR No: 22413. Monitoring of development groundworks recorded Roman occupation from the town of Portus Abonae. Accession no: 2006.47.
+
+Year Start:  2006
+
+Year End:  2006
+
+Identifiers: 
+[ADS] Depositor Id: 1455750
+[ADS] Associated Id: AIP Record Number: E.54.3159
+[ADS] Import RCN: EHNMR-1455750
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Region Archaeological Services
+
+Bibliographic References: 
+
+Heaton R & Whatley S/2006/Archaeological watching brief at No.31 Hadrian Close, Sea Mills, Bristol/Report No 1671. Bristol and Region Archaeological Services reports.","ROMAN",01/01/2006 00:00:00,01/01/2006 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:29:02 BY Admin; "
+25,"SMR No: 20143","ST5510875808","ROMAN WAY/PORTWAY, SEA MILLS",355108.00,175808.00,"EXCAVATION",,"Description:  Parts of four 3rd century buildings were recorded. SMR Number (Avon): 20143.
+
+Year Start:  1923
+
+Year End:  1923
+
+Identifiers: 
+[ADS] Depositor Id: 633859
+[ADS] Associated Id: SMR Number (Avon): 20143
+[ADS] Import RCN: EHNMR-633859
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Gloucester Archaeological Society
+
+Bibliographic References: 
+
+45/1923/192-201. Transactions of the Bristol and Gloucestershire Archaeological Society.","ROMAN",01/01/2023 00:00:00,01/01/2023 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:06 BY Admin; "
+26,"SMR No: 20153","ST5501875841","REAR OF SEA MILLS STATION",355018.00,175841.00,"EXCAVATION",,"Description:  Information from Avon SMR; SMR No: 20153. Exact location unknown; NGR is approximate.
+
+Year Start:  1912
+
+Year End:  1912
+
+Identifiers: 
+[ADS] Depositor Id: 1119216
+[ADS] Associated Id: SMR Number (Avon): 20153
+[ADS] Import RCN: EHNMR-1119216
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Gloucester Archaeological Society","ROMAN",01/01/2012 00:00:00,01/01/2012 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:06 BY Admin; "
+27,"SMR No: 20154","ST5507575768","5 HADRIAN CLOSE, SEA MILLS",355075.00,175768.00,"EXCAVATION",,"Description:  Information from Avon SMR; SMR No: 20154. Excavation by schoolboy members of BARG in the garden of No 5 revealed a 1st century timber building replaced in stone in the 4th century.
+
+Year Start:  1965
+
+Year End:  1965
+Identifiers: 
+[ADS] Depositor Id: 1119218
+[ADS] Associated Id: SMR Number (Avon): 20154
+[ADS] Import RCN: EHNMR-1119218
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group","ROMAN",01/01/1965 00:00:00,01/01/1965 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:06 BY Admin; "
+28,"SMR No: 24556","ST5510075700","30 SABRINA WAY, STOKE BISHOP",355100.00,175700.00,"WATCHING BRIEF",,"Description:  Bristol SMR No: 24556. Monitoring of development groundworks recorded no significant archaeological activity. Accession no: 2007.69.
+
+Year Start:  2007
+
+Year End:  2007
+
+Identifiers: 
+[ADS] Depositor Id: 1460047
+[ADS] Associated Id: AIP Record Number: E.54.3543
+[ADS] Import RCN: EHNMR-1460047
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Region Archaeological Services
+
+Bibliographic References: 
+
+Potter K/2007/Archaeological watching brief at No.30 Sabrina Way, Stoke Bishop, Bristol/Report No 1817. Bristol and Region Archaeological Services reports","ROMAN",01/01/2007 00:00:00,01/01/2007 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:05 BY Admin; "
+29,"80 ROMAN WAY, SNEYD PARK","ST5514475802","80 ROMAN WAY, SNEYD PARK",355144.00,175802.00,"WATCHING BRIEF",,"Description:  A watching brief was maintained during groundworks at the site. Roman deposits were recorded.
+
+Year Start:  2007
+
+Year End:  2007
+
+Identifiers: 
+[ADS] Depositor Id: 1527602
+[ADS] Associated Id: AIP Record Number: E.54.3544
+[ADS] Import RCN: EHNMR-1527602
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit
+
+Bibliographic References: 
+
+Anon/2007/No. 80 Roman Way, Sneyd Park, Bristol. Archaeological Watching Brief Project. Avon Archaeological Unit [evaluation and assessment reports].","ROMAN",01/01/2007 00:00:00,01/01/2007 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:05 BY Admin; "
+30,"SMR No: 20166","ST5502475790","18 HADRIAN CLOSE, SEA MILLS",355024.00,175790.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Avon SMR; SMR No: 20166. Observation in or around 1965 by schoolboy members of BARG recorded a possible Roman stone floor surface. NGR is approximate.
+
+Year Start:  1965
+
+Year End:  1965
+
+Identifiers: 
+[ADS] Depositor Id: 1119307
+[ADS] Associated Id: SMR Number (Avon): 20166
+[ADS] Import RCN: EHNMR-1119307
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group","ROMAN",01/01/1965 00:00:00,01/01/1965 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:05 BY Admin; "
+31,"SMR No: 20171","ST5503975680","9 HADRIAN CLOSE, SEA MILLS",355039.00,175680.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Avon SMR; SMR No: 20171. Observation in or around 1967 recorded the remains of a Roman building. NGR is approximate.
+
+Year Start:  1967
+
+Year End:  1967
+
+Identifiers: 
+[ADS] Depositor Id: 1119332
+[ADS] Associated Id: SMR Number (Avon): 20171
+[ADS] Import RCN: EHNMR-1119332
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group
+
+Bibliographic References: 
+
+105/1987, 44. Transactions of the Bristol and Gloucestershire Archaeological Society.","ROMAN",01/01/1967 00:00:00,01/01/1967 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:05 BY Admin; "
+32,"Site code: 8HCS09","ST5504775691","8 HADRIAN CLOSE, SEA MILLS",355047.00,175691.00,"EXCAVATION",,"Description:  Site code: 8HCS09. Excavation recorded significant evidence for the Roman town of Abonae. Information from OASIS Online Form. Bristol HER No: 24764.
+
+Year Start:  2009
+
+Year End:  2009
+
+Identifiers: 
+[ADS] Depositor Id: 1512517
+[ADS] Associated Id: OASIS ID: foundati1-64367
+[ADS] Associated Id: AIP Record Number: E.54.3575
+[ADS] Import RCN: EHNMR-1512517
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Foundations Archaeology
+
+Bibliographic References: 
+
+Hood A/2009/8 Hadrian Close, Sea Mills, Bristol: archaeological excavation and recording/Report No 662. Foundations Archaeology [assessment & evaluation reports].","ROMAN",01/01/2009 00:00:00,01/01/2009 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:04 BY Admin; "
+35,"SMR No: 20157","ST5513975890","51 ROMAN WAY, SEA MILLS",355139.00,175890.00,"EXCAVATION",,"Description:  Information from Avon SMR; SMR No: 20157. Excavation by schoolboy members of BARG at the south-east end of the gardens revealed a possible Roman ditch and stone surfaces identified as a road. Excavation immediately to the east in 1972 found no extension of these features.
+
+Year Start:  1968
+
+Year End:  1968
+Identifiers: 
+[ADS] Depositor Id: 1119256
+[ADS] Associated Id: SMR Number (Avon): 20157
+[ADS] Import RCN: EHNMR-1119256
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group","ROMAN",01/01/1968 00:00:00,01/01/1968 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:04 BY Admin; "
+36,"SMR No: 21670","ST5503075890","87 SEA MILLS LANE",355030.00,175890.00,"EXCAVATION",,"Description:  Bristol SMR No: 21670. Details regarding the site archives are not available. The excavation report will appear in a Bristol City Museums monograph. RCHME Microfilm PRN: 1484.
+
+Year Start:  1967
+
+Year End:  1967
+
+Identifiers: 
+[ADS] Depositor Id: 633865
+[ADS] Import RCN: EHNMR-633865
+
+People Involved: 
+[Publisher] Historic England
+[Creator] City of Bristol Museums and Art Galleries
+
+Bibliographic References: 
+
+2/1967/14. Council for British Archaeology : Group 12 (Wessex) & Group 13 (South West) : Archaeological review.
+105/1987, 15-108. Transactions of the Bristol and Gloucestershire Archaeological Society.","ROMAN",01/01/1967 00:00:00,01/01/1967 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:04 BY Admin; "
+37,"HER No: 24970","ST5506075910","SEA MILLS LANE,
+SEA MILLS",355060.00,175910.00,"WATCHING BRIEF",,"Description:  Bristol HER No: 24970. Monitoring of redevelopment groundworks recorded no archaeological activity. Information from OASIS Online Form.
+
+Year Start:  2011
+
+Year End:  2011
+
+Identifiers: 
+[ADS] Depositor Id: 1571771
+[ADS] Associated Id: OASIS ID: avonarch1-89410
+[ADS] Import RCN: EHNMR-1571771
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Avon Archaeological Unit
+
+Bibliographic References: 
+
+Young D/2011/Archaeological watching brief on the site of the former Public Conveniences, Sea Mills Lane, Sea Mills, Bristol. Avon Archaeological Unit [evaluation and assessment reports].","ROMAN",01/01/2011 00:00:00,01/01/2011 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:03 BY Admin; "
+34,"SMR No: 20156","ST5512075900","ABON HOUSE, ROMAN WAY",355120.00,175900.00,"EXCAVATION",,"Description:  Details regarding the archive are not available. The excavation report will appear in a Bristol City Museums monograph. RCHME Microfilm PRN: 1484. SMR Number (Avon): 20156. SMR grid ref: ST 55066 75853.
+
+Identifiers: 
+[ADS] Depositor Id: 633864
+[ADS] Associated Id: SMR Number (Avon): 20156
+[ADS] Associated Id: RCHME Microfilm Index Number: 1484
+[ADS] Import RCN: EHNMR-633864
+
+People Involved: 
+[Publisher] Historic England
+[Creator] City of Bristol Museums and Art Galleries
+
+Bibliographic References: 
+
+1/1966/17-18. Council for British Archaeology : Group 12 (Wessex) & Group 13 (South West) : Archaeological review.","ROMAN",01/01/1965 00:00:00,01/01/1965 00:00:00,12/03/2021 00:00:00,"EDIT ON 12/03/2021 14:54:04 BY Admin; "
+1,"SMR No: 20146","ST5512675770","ROMAN WAY/PORTWAY, SEA MILLS,
+CITY OF BRISTOL",355126.00,175770.00,"EXCAVATION","RUINED STRUCTURE","Description:  Trial holes excavated 'opposite Tratman's site', on the line of the Portway. The archive is held in historical file 2668. SMR Number (Avon): 20146.
+
+Identifiers: 
+[ADS] Depositor Id: 633860
+[ADS] Associated Id: SMR Number (Avon): 20146
+[ADS] Import RCN: EHNMR-633860
+
+People Involved: 
+[Publisher] Historic England
+[Creator] City of Bristol Museums and Art Galleries
+
+Bibliographic References: 
+
+1935/REP OF THE MUS.& ART GALLERY COMM.1934-6/. City of Bristol Museums and Art Galleries Report.","ROMAN",01/01/1934 00:00:00,01/01/1934 00:00:00,10/03/2021 00:00:00,"EDIT ON 12/03/2021 15:04:10 BY Admin; "
+2,"SMR No: 20179","ST5339577557","CITY OF BRISTOL",353395.00,177557.00,"EXCAVATION","RUINED BUILDING","The site archive is held in a box in the Museum strongroom, & other material is held in historical files 3566 & 6185. SMR Number (Avon): 20179.
+Year Start:  1947
+Year End:  1947
+https://archaeologydataservice.ac.uk/archsearch/record.xhtml","ROMAN",01/01/1947 00:00:00,01/01/1947 00:00:00,10/03/2021 00:00:00,"EDIT ON 12/03/2021 15:04:03 BY Admin; "
+3,"OASIS ID: bristola1-118116","ST5337377553","KINGS WESTON ROMAN VILLA,
+CITY OF BRISTOL",353373.00,177553.00,"WATCHING BRIEF",,"	Description:  Monitoring of groundworks for a soakaway pit adjacent to the bath-suite of the Roman Villa. Information from OASIS Online Form.
+
+Year Start:  2012
+
+Year End:  2012
+
+Identifiers: 
+[ADS] Depositor Id: 1581538
+[ADS] Associated Id: OASIS ID: bristola1-118116
+[ADS] Associated Id: UAD Number (Bristol): 25086
+[ADS] Import RCN: EHNMR-1581538
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Region Archaeological Services
+
+Bibliographic References: 
+
+Smith T/2013/An archaeological watching brief at Kings Weston Roman Villa, Bristol/Report No 2628. Bristol and Region Archaeological Services reports.","ROMAN",01/01/2012 00:00:00,01/01/2012 00:00:00,10/03/2021 00:00:00,"EDIT ON 12/03/2021 14:32:07 BY Admin; "
+4,"SMR No: 20024","ST5340877557","CITY OF BRISTOL",353408.00,177557.00,"CONDITION SURVEY; EXCAVATION",,"	Description:  Project comprised a measured survey & limited excavation associated with the conservation of a hypocaust in room XI. Accession no: 62/1995. SMR Number (Avon): 20024. NMR Microfilm Index PRN: 7189.
+
+Year Start:  1995
+
+Year End:  1995
+
+114/1996/167. Transactions of the Bristol and Gloucestershire Archaeological Society.
+27/1996/434. Britannia : a journal of Romano-British and kindred studies.
+13/1996, 47-51. Bristol & Avon archaeology.
+
+	[ ADS ] Depositor ID - 1065765
+[ ADS ] Associated ID - SMR Number (Avon): 20024
+[ ADS ] Associated ID - AIP Record Number: E.08.0001
+[ ADS ] Associated ID - RCHME Microfilm Index Number: 7189","ROMAN",01/01/1995 00:00:00,01/01/1995 00:00:00,10/03/2021 00:00:00,"EDIT ON 12/03/2021 14:31:16 BY Admin; "
+6,"HER No: 24807","ST5504075675","9 HADRIAN CLOSE, SEA MILLS,
+CITY OF BRISTOL",355040.00,175675.00,"WATCHING BRIEF",,"Description:  Bristol HER No: 24807. Monitoring of development groundworks recorded no significant archaeological activity. Information from OASIS Online Form.
+
+Year Start:  2009
+
+Year End:  2009
+Identifiers: 
+[ADS] Depositor Id: 1510667
+[ADS] Associated Id: OASIS ID: bristola1-62238
+[ADS] Associated Id: AIP Record Number: E.54.3503
+[ADS] Import RCN: EHNMR-1510667
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Region Archaeological Services
+
+Bibliographic References: 
+
+Longman T/2010/Archaeological watching brief at 9 Hadrian Close, Sea Mills, Bristol. Bristol and Region Archaeological Services reports.",,01/01/2009 00:00:00,01/01/2009 00:00:00,10/03/2021 00:00:00,"EDIT ON 12/03/2021 14:30:55 BY Admin; "
+8,"SMR No: 20170","ST5504375691","7-9 HADRIAN CLOSE, SEA MILLS",355043.00,175691.00,"FIELD OBSERVATION (VISUAL ASSESSMENT)",,"Description:  Information from Avon SMR; SMR No: 20170. Observation in or around 1965 by schoolboy members of BARG recorded a Roman road surface. NGR is approximate.
+
+Year Start:  1965
+
+Year End:  1965
+Identifiers: 
+[ADS] Depositor Id: 1119330
+[ADS] Associated Id: SMR Number (Avon): 20170
+[ADS] Import RCN: EHNMR-1119330
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol Archaeological Research Group",,01/01/1965 00:00:00,01/01/1965 00:00:00,10/03/2021 00:00:00,"EDIT ON 12/03/2021 14:30:50 BY Admin; "
+10,"SMR No: 20713","ST5503575838","HADRIAN CLOSE, SEA MILLS,
+CITY OF BRISTOL",355035.00,175838.00,"WATCHING BRIEF",,"Description:  Information from Bristol SMR; No: 20713. Monitoring of groundworks for pre-fabricated buildings recorded several rubbish pits and gravel spreads associated with the Roman settlement.
+
+Year Start:  1945
+
+Year End:  1945
+Identifiers: 
+[ADS] Depositor Id: 1340603
+[ADS] Associated Id: SMR Number (Avon): 20713
+[ADS] Import RCN: EHNMR-1340603
+
+People Involved: 
+[Publisher] Historic England
+[Creator] Bristol and Gloucester Archaeological Society
+
+Bibliographic References: 
+
+Vol 66/1945, 260. Transactions of the Bristol and Gloucestershire Archaeological Society.","ROMAN",01/01/1945 00:00:00,01/01/1945 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 15:03:54 BY Admin; "
+11,"SMR No: 20147","ST5517275812","EAST OF PORTWAY, SEA MILLS",355172.00,175812.00,"EXCAVATION",,"Description:  The site was an extension westwards of Tratman's sites B2 and D24. There were two seasons of work, and a suggestion of a third in 1939. The archive is held in historical file 2668. SMR Number (Avon): 20147.
+
+Year Start:  1937
+
+Year End:  1937
+
+Identifiers: 
+[ADS] Depositor Id: 633861
+[ADS] Associated Id: SMR Number (Avon): 20147
+[ADS] Import RCN: EHNMR-633861
+
+People Involved: 
+[Publisher] Historic England
+
+Bibliographic References: 
+
+59/1937/330-2. Transactions of the Bristol and Gloucestershire Archaeological Society.
+61/1939/202-23. Transactions of the Bristol and Gloucestershire Archaeological Society.","ROMAN",01/01/1937 00:00:00,01/01/1937 00:00:00,11/03/2021 00:00:00,"EDIT ON 12/03/2021 15:03:40 BY Admin; "

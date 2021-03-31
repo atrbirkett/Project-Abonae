@@ -1,0 +1,41 @@
+"UID","ID_EMName","ID_EMNumber","ID_EMClassification","Element_BIMClass","Element_BIMType","Description_Features","Notes","Associated_Find","Associated_Trench","Associated_Context","Associated_Building","Associated_Room","Associated_Masonry","Associated_WorkedStone","Created_Date","Edit_LastEdit","Associated_Find_List","Associated_Trench_List","Associated_Context_List","Associated_Building_List","Associated_Room_List","Associated_Masonry_List","Associated_WorkedStone_List"
+17,"SU100_ARCHITECTURE_FLOORS","100","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_FLOORS",,,"","","",1,"","","",23/03/2021 00:00:00,"AdminEDIT ON 31/03/2021 09:03:36 BY Admin; ",,,,,,,
+18,"SU102_ARCHITECTURE_FLOORS","102","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_FLOORS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+19,"SU103_ARCHITECTURE_FLOORS","103","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_FLOORS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+20,"SU104_ARCHITECTURE_WALLS","104","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_WALLS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+21,"SU105_ARCHITECTURE_WALLS","105","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_WALLS",,"No longer standing","","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+22,"SU106_ARCHITECTURE_WALLS","106","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_WALLS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+23,"SU107_ARCHITECTURE_WALLS","107","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_WALLS",,,"-","-","-",,"-","-","-",23/03/2021 00:00:00,,,,,,,,
+24,"SU108_ARCHITECTURE_WALLS","108","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_WALLS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+25,"SU109_ARCHITECTURE_WALLS","109","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_WALLS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+26,"SU110_ARCHITECTURE_WALLS","110","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_WALLS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+27,"SU111_STRUCTURE_STRUCTURALCOLUMNS","111","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+28,"SU112_STRUCTURE_STRUCTURALCOLUMNS","112","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"","","",,"","","",23/03/2021 00:00:00,,,,,,,,
+29,"SU113_STRUCTURE_STRUCTURALCOLUMNS","113","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,," "," "," ",," "," "," ",23/03/2021 00:00:00,,,,,,,,
+30,"SU114_STRUCTURE_STRUCTURALCOLUMNS","114","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"!","!","!",,"!","!","!",23/03/2021 00:00:00,,,,,,,,
+31,"SU115_STRUCTURE_STRUCTURALCOLUMNS","115","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"""","""","""",,"""","""","""",23/03/2021 00:00:00,,,,,,,,
+32,"SU116_STRUCTURE_STRUCTURALCOLUMNS","116","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"#","#","#",,"#","#","#",23/03/2021 00:00:00,,,,,,,,
+33,"SU117_STRUCTURE_STRUCTURALCOLUMNS","117","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"$","$","$",,"$","$","$",23/03/2021 00:00:00,,,,,,,,
+34,"SU118_STRUCTURE_STRUCTURALCOLUMNS","118","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"%","%","%",,"%","%","%",23/03/2021 00:00:00,,,,,,,,
+35,"SU119_STRUCTURE_STRUCTURALCOLUMNS","119","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"&","&","&",,"&","&","&",23/03/2021 00:00:00,,,,,,,,
+36,"SU120_STRUCTURE_STRUCTURALCOLUMNS","120","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"'","'","'",,"'","'","'",23/03/2021 00:00:00,,,,,,,,
+37,"SU121_STRUCTURE_STRUCTURALCOLUMNS","121","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"(","(","(",,"(","(","(",23/03/2021 00:00:00,,,,,,,,
+38,"SU122_STRUCTURE_STRUCTURALCOLUMNS","122","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,")",")",")",,")",")",")",23/03/2021 00:00:00,,,,,,,,
+39,"SU123_STRUCTURE_STRUCTURALCOLUMNS","123","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"*","*","*",,"*","*","*",23/03/2021 00:00:00,,,,,,,,
+40,"SU124_STRUCTURE_STRUCTURALCOLUMNS","124","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"+","+","+",,"+","+","+",23/03/2021 00:00:00,,,,,,,,
+41,"SU125_STRUCTURE_STRUCTURALCOLUMNS","125","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,",",",",",",,",",",",",",23/03/2021 00:00:00,,,,,,,,
+42,"SU126_STRUCTURE_STRUCTURALCOLUMNS","126","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"-","-","-",,"-","-","-",23/03/2021 00:00:00,,,,,,,,
+43,"SU127_STRUCTURE_STRUCTURALCOLUMNS","127","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,".",".",".",,".",".",".",23/03/2021 00:00:00,,,,,,,,
+44,"SU128_STRUCTURE_STRUCTURALCOLUMNS","128","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"/","/","/",,"/","/","/",23/03/2021 00:00:00,,,,,,,,
+45,"SU129_STRUCTURE_STRUCTURALCOLUMNS","129","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"0","0","0",,"0","0","0",23/03/2021 00:00:00,,,,,,,,
+46,"SU130_STRUCTURE_STRUCTURALCOLUMNS","130","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"1","1","1",,"1","1","1",23/03/2021 00:00:00,,,,,,,,
+47,"SU131_STRUCTURE_STRUCTURALCOLUMNS","131","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"2","2","2",,"2","2","2",23/03/2021 00:00:00,,,,,,,,
+48,"SU132_STRUCTURE_STRUCTURALCOLUMNS","132","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"3","3","3",,"3","3","3",23/03/2021 00:00:00,,,,,,,,
+49,"SU133_STRUCTURE_STRUCTURALCOLUMNS","133","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"4","4","4",,"4","4","4",23/03/2021 00:00:00,,,,,,,,
+50,"SU134_STRUCTURE_STRUCTURALCOLUMNS","134","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"5","5","5",,"5","5","5",23/03/2021 00:00:00,,,,,,,,
+51,"SU135_STRUCTURE_STRUCTURALCOLUMNS","135","Stratigraphic Unit","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"6","6","6",,"6","6","6",23/03/2021 00:00:00,,,,,,,,
+52,"SU136_ARCHITECTURE_DOORS","136","Stratigraphic Unit","ARCHITECTURE","ARCHITECTURE_DOORS",,,"7","7","7",,"7","7","7",23/03/2021 00:00:00,,,,,,,,
+53,"USV/S137_ARCHITECTURE_WALLS","137","Virtual Stratigraphic Unit (structural)","ARCHITECTURE","ARCHITECTURE_WALLS",,,"8","8","8",,"8","8","8",23/03/2021 00:00:00,,,,,,,,
+54,"USV/N138_STRUCTURE_STRUCTURALCOLUMNS","138","Virtual Stratigraphic Unit Series","STRUCTURE","STRUCTURE_STRUCTURALCOLUMNS",,,"9","9","9",,"9","9","9",24/03/2021 00:00:00,,,,,,,,
+55,"USV/S139_ARCHITECTURE_WALLS","139","Virtual Stratigraphic Unit (structural)","ARCHITECTURE","ARCHITECTURE_WALLS",,,":",":",":",,":",":",":",24/03/2021 00:00:00,,,,,,,,
+56,"USV/N140_ARCHITECTURE_FLOORS","140","Virtual Stratigraphic Unit (non-structural)","ARCHITECTURE","ARCHITECTURE_FLOORS",,"Composed of a 0.15m of tile, 0.20 cement  0.10m of surface",";",";",";",,";",";",";",24/03/2021 00:00:00,,,,,,,,
